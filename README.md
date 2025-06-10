@@ -37,7 +37,7 @@ Triplet
 
 
 ## :chart_with_upwards_trend: Results
-<em>Table 1 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em><br/>
+<div align="justify"><em>Table 1 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em><div/><br/>
 |  | ShanghaiTech | ShanghaiTech-HR | UBnormal | Avenue | Avenue-HR |
 | :---- | :----: | :----: | :----: | :----: | :----: |
 | [STG-NF](https://doi.org/10.1109/ICCV51070.2023.01246) | 85.9 | 87.4 | 71.8 | - | - |
