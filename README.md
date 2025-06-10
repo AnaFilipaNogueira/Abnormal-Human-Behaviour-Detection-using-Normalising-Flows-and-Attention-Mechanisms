@@ -29,15 +29,12 @@
 </div></br>
 <em>Fig.1 - Example of a human mesh pair with the corresponding description</em><br/><br/>
 
-<div style="display: inline-block; width: 49%; text-align: center;">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="100%">
-  <p align="center"><em>Dual Attention Mechanism (DAM)</em></p>
-</div>
 
-<div style="display: inline-block; width: 49%; text-align: center;">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width="100%">
-  <p align="center"><em>Triplet</em></p>
+<div align="center">
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="45%" style="margin-right: 2%;" />
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width="45%" />
 </div>
+<p align="center"><em>Dual Attention Mechanism (DAM)</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Triplet</em></p>
 
 
 <table border="0" cellspacing="0" cellpadding="0">
