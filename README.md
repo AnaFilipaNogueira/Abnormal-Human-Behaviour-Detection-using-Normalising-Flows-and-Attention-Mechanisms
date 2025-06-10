@@ -31,5 +31,5 @@ Our code is based on code from:
 
 Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976)
 
-## :lock: License
+## :closed_lock_with_key: License
 This code is distributed under a Creative Commons LICENSE - Attribution-NonCommercial 4.0 International.
