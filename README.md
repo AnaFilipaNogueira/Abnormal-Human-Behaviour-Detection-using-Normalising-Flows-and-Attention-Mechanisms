@@ -25,6 +25,12 @@ Triplet
 </p></br>
 <em>Fig.4 - Triplet</em><br/><br/>
 
+<p align="center">
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/image.png" width=90%/>
+</p></br>
+<em>Fig.5 - Results</em><br/><br/>
+
+
 ## Acknowledgments
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
