@@ -35,6 +35,21 @@
       <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="100%">
       <p align="center"><em>Dual Attention Mechanism (DAM)</em></p>
     </td>
+    <td width="10%"></td> <!-- Spacer column -->
+    <td align="right" width="45%">
+      <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width="100%">
+      <p align="center"><em>Triplet</em></p>
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="45%">
+      <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="100%">
+      <p align="center"><em>Dual Attention Mechanism (DAM)</em></p>
+    </td>
     <td width="10%"></td>
     <td align="right" width="45%">
       <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width="100%">
