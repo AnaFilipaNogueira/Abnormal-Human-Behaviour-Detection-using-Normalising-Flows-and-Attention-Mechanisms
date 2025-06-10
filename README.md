@@ -29,7 +29,7 @@
 </div></br>
 <em>Fig.1 - Example of a human mesh pair with the corresponding description</em><br/><br/>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" width="45%">
       <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="100%">
