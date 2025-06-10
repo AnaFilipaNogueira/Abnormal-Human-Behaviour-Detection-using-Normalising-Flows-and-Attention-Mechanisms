@@ -28,7 +28,7 @@ Triplet
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/image.png" width=90%/>
 </p></br>
-<em>Fig.5 - Results</em><br/><br/>
+<em>Fig.5 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em><br/><br/>
 
 
 ## Acknowledgments
