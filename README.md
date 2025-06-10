@@ -28,3 +28,8 @@ Triplet
 ## Acknowledgments
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
+
+Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976)
+
+## License
+This code is distributed under a Creative Commons LICENSE - Attribution-NonCommercial 4.0 International.
