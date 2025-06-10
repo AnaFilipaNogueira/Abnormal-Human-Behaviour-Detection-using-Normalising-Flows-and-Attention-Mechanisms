@@ -38,14 +38,14 @@ Triplet
 </p></br>
 <em>Fig.5 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em><br/><br/>
 
-    | Header1 | ShanghaiTech | ShanghaiTech-HR | UBnormal | Avenue | Avenue-HR |
-    | :---- | :----: | :----: | :----: | :----: | :----: |
-    | STG-NF | 85.9 | 87.4 | 71.8 | - | - |
-    | DA-Flow | 86.5 | **87.8** | 74.1 | - | - |
-    | MGENet | **86.9** | - | 74.3 | - | - |
-    | STG-NF + Jigsaw | **86.9** | 87.7 | 70.0 | 60.9 | 63.9 |
-    | STG-NF optimised (ours) | 86.3 | 87.2 | **77.7** | 62.2 | **67.1** |
-    | STG-NF + attention (ours) | 86.0 | 87.7 | 76.0 | **65.6** | 63.9 |
+|  | ShanghaiTech | ShanghaiTech-HR | UBnormal | Avenue | Avenue-HR |
+| :---- | :----: | :----: | :----: | :----: | :----: |
+| STG-NF | 85.9 | 87.4 | 71.8 | - | - |
+| DA-Flow | 86.5 | **87.8** | 74.1 | - | - |
+| MGENet | **86.9** | - | 74.3 | - | - |
+| STG-NF + Jigsaw | **86.9** | 87.7 | 70.0 | 60.9 | 63.9 |
+| STG-NF optimised (ours) | 86.3 | 87.2 | **77.7** | 62.2 | **67.1** |
+| STG-NF + attention (ours) | 86.0 | 87.7 | 76.0 | **65.6** | 63.9 |
 
 
 ## Acknowledgments
