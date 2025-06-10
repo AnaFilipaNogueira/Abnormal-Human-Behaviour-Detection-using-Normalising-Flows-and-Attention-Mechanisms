@@ -5,7 +5,7 @@
 ![Picture3](https://github.com/user-attachments/assets/3a5e5ad0-b8b5-44f6-81b8-e4396b117800)
 **Fig. 1:** Overview of the whole model pipeline (Image adapted from [1])
 
-![STG-NF_block](https://github.com/user-attachments/assets/8769ec95-240b-40f5-bb40-0724038fce77)
+![STG-NF_block](https://github.com/user-attachments/assets/8769ec95-240b-40f5-bb40-0724038fce77 width=70%)
 **Fig. 2:** Architecture of one flow step which is constituted by ActNorm, permutation and spatio-temporal affine coupling layers (Image adapted from [1]).
 
 
