@@ -15,13 +15,13 @@
 ### Atention Mechanisms
 Dual Attention Mechanism (DAM)
 <p float="center">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" />
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=80%/>
 </p></br>
 <em>Fig.3 - Dual Attention Mechanism (DAM)</em><br/><br/>
 
 Triplet
 <p float="center">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" />
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=80%/>
 </p></br>
 <em>Fig.4 - Triplet</em><br/><br/>
 
