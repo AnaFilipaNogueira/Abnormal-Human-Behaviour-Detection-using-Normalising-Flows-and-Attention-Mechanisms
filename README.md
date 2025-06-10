@@ -23,8 +23,10 @@
 <em>Fig.2 - Architecture of one flow step which is constituted by ActNorm, permutation and spatio-temporal affine coupling layers (Image adapted from [1])</em><br/><br/>
 
 ## Atention Mechanisms
-<p float="left">
+<p align="left">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=45% />
+</p>
+<p align="right">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=45% />
 </p></br>
 <em>Fig.1 - Example of a human mesh pair with the corresponding description</em><br/><br/>
