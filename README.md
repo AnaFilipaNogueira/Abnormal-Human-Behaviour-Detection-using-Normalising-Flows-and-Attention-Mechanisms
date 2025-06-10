@@ -24,8 +24,8 @@
 
 ## Atention Mechanisms
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=45% />
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=45% />
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=40% />
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=40% />
 </div></br>
 <em>Fig.1 - Example of a human mesh pair with the corresponding description</em><br/><br/>
 
@@ -44,6 +44,7 @@ Triplet
 
 ## :chart_with_upwards_trend: Results
 <div align="justify"><em>Table 1 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em></div>  
+
 |  | ShanghaiTech | ShanghaiTech-HR | UBnormal | Avenue | Avenue-HR |
 | :---- | :----: | :----: | :----: | :----: | :----: |
 | [STG-NF](https://doi.org/10.1109/ICCV51070.2023.01246) | 85.9 | 87.4 | 71.8 | - | - |
