@@ -49,7 +49,6 @@ Triplet
 
 
 ## Acknowledgments 
-<-- :handshake: -->
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
 
