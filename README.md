@@ -8,6 +8,7 @@
 ### Atention Mechanisms
 Dual Attention Mechanism (DAM)
 ![DAM](https://github.com/user-attachments/assets/9b0cbc05-c967-4c19-be6d-38d00b0292a6 "Dual Attention Mechanism (DAM)")
+<img src="https://github.com/user-attachments/assets/9b0cbc05-c967-4c19-be6d-38d00b0292a6" alt="DAM" title="Dual Attention Mechanism (DAM)" class="caption" />
 
 
 Triplet
