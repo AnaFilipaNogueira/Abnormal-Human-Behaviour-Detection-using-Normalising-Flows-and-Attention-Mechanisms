@@ -8,6 +8,10 @@
 ![STG-NF_block](https://github.com/user-attachments/assets/8769ec95-240b-40f5-bb40-0724038fce77)
 **Fig. 2:** Architecture of one flow step which is constituted by ActNorm, permutation and spatio-temporal affine coupling layers (Image adapted from [1]).
 
+<p float="left">
+  <img src="https://github.com/AnaFilipaNogueira/Follow_instructions_and_correct_your_pose/blob/main/img_a0_new.jpg" width=25% height=50% />
+</p></br>
+<em>Fig.1 - Example of a human mesh pair with the corresponding description</em><br/><br/>
 
 ### Atention Mechanisms
 Dual Attention Mechanism (DAM)
