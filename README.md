@@ -2,9 +2,9 @@
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira
 
 **Main Contributions:**
-<i>Improve the state-of-the-art result for the UBnormal dataset by 3.4 pp, for the Avenue by 4.7 pp and for the Avenue-HR by 3.2 pp</i>
-<i>Exploration of the influence of the different parameters on the STG-NF model</i>
-<i>Exploration of the combination of attention mechanisms with STG-NF model</i>
+* Improve the state-of-the-art result for the UBnormal dataset by 3.4 pp, for the Avenue by 4.7 pp and for the Avenue-HR by 3.2 pp
+* Exploration of the influence of the different parameters on the STG-NF model</i>
+* Exploration of the combination of attention mechanisms with STG-NF model</i>
 
 <!-- The aim of this work is to explore normalising flows to detect anomalous behaviours which is an essential task mainly for surveillance systems-related applications. To accomplish that, a series of ablation studies were performed by varying the parameters of the \gls{stg-nf} model \cite{Hirschorn_normalisingFlows} and combining it with attention mechanisms. Out of all these experiments, it was only possible to improve the state-of-the-art result for the UBnormal dataset by 3.4 \gls{pp}, for the Avenue by 4.7 \gls{pp} and for the Avenue-HR by 3.2 \gls{pp}. However, further research remains urgent to find a model that can give the best performance across different scenarios. -->
 
