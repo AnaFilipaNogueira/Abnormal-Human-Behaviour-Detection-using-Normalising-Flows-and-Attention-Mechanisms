@@ -34,6 +34,8 @@ Triplet
 </p></br>
 <em>Fig.4 - Triplet</em><br/><br/>
 
+
+## Results
 |  | ShanghaiTech | ShanghaiTech-HR | UBnormal | Avenue | Avenue-HR |
 | :---- | :----: | :----: | :----: | :----: | :----: |
 | [STG-NF](https://doi.org/10.1109/ICCV51070.2023.01246) | 85.9 | 87.4 | 71.8 | - | - |
