@@ -13,7 +13,7 @@
 
 ## Architecture
 <p align="center">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Picture3.png" />
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/overall_architecture.png" />
 </p></br>
 <em>Fig.1 - Overview of the whole model pipeline (Image adapted from [1])</em><br/><br/>
 
