@@ -48,7 +48,8 @@ Triplet
 | **STG-NF + attention (ours)** | 86.0 | 87.7 | 76.0 | **65.6** | 63.9 |
 
 
-## Acknowledgments <-- :handshake: -->
+## Acknowledgments 
+<-- :handshake: -->
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
 
