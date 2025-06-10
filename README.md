@@ -1,7 +1,7 @@
 # Abnormal Human Behaviour Detection using Normalising Flows and Attention Mechanisms
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/><br/>
 
-## Main Contributions:
+## :dart: Main Contributions:
 * Exploration of Normalising Flows to detect Anomalous Human Behaviours - an essential task mainly for surveillance systems-related applications
 * Analysis of the influence of the different parameters on the STG-NF model
 * Study of the integration of attention mechanisms with STG-NF model
@@ -36,7 +36,7 @@ Triplet
 <em>Fig.4 - Triplet</em><br/><br/>
 
 
-## Results
+## :chart_with_upwards_trend: Results
 <em>Table 1 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em><br/>
 |  | ShanghaiTech | ShanghaiTech-HR | UBnormal | Avenue | Avenue-HR |
 | :---- | :----: | :----: | :----: | :----: | :----: |
