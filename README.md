@@ -47,7 +47,7 @@ Triplet
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
 
-Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976)
+Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976) and [Rotate to Attend: Convolutional Triplet Attention Module](https://openaccess.thecvf.com/content/WACV2021/papers/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.pdf)
 
 ## :closed_lock_with_key: License
 This code is distributed under a Creative Commons LICENSE - Attribution-NonCommercial 4.0 International.
