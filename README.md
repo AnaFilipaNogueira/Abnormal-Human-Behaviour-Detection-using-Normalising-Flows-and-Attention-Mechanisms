@@ -23,34 +23,6 @@
 <em>Fig.2 - Architecture of one flow step which is constituted by ActNorm, permutation and spatio-temporal affine coupling layers (Image adapted from [1])</em><br/><br/>
 
 ## Atention Mechanisms
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=40% />
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=40% />
-</div></br>
-<em>Fig.1 - Example of a human mesh pair with the corresponding description</em><br/><br/>
-
-
-<div align="center">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="45%" style="margin-right: 2%;" />
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width="45%" />
-</div>
-<p align="center"><em>Dual Attention Mechanism (DAM)</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Triplet</em></p>
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" width="45%">
-      <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width="100%">
-      <p align="center"><em>Dual Attention Mechanism (DAM)</em></p>
-    </td>
-    <td width="10%"></td>
-    <td align="right" width="45%">
-      <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width="100%">
-      <p align="center"><em>Triplet</em></p>
-    </td>
-  </tr>
-</table>
-
 Dual Attention Mechanism (DAM)
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=80%/>
