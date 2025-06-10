@@ -1,5 +1,5 @@
 # Abnormal Human Behaviour Detection using Normalising Flows and Attention Mechanisms
-**Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira
+**Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/>
 
 **Main Contributions:**
 * Exploration of the influence of the different parameters on the STG-NF model</i>
