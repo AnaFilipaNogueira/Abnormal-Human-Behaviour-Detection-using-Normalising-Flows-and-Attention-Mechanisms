@@ -3,7 +3,7 @@
 
 ## 📚 Table of Contents
 - [:dart: Main Contributions](#main-contributions)
-- [ Architecture](# Architecture)
+- [🏗️ Architecture](#architecture)
 - [🧠 Model Training](#-model-training)
 - [🧪 Model Testing](#-model-testing)
 - [📊 Results](#-results)
@@ -23,7 +23,7 @@
 <!-- The aim of this work is to explore normalising flows to detect anomalous behaviours which is an essential task mainly for surveillance systems-related applications. To accomplish that, a series of ablation studies were performed by varying the parameters of the \gls{stg-nf} model \cite{Hirschorn_normalisingFlows} and combining it with attention mechanisms. Out of all these experiments, it was only possible to improve the state-of-the-art result for the UBnormal dataset by 3.4 \gls{pp}, for the Avenue by 4.7 \gls{pp} and for the Avenue-HR by 3.2 \gls{pp}. However, further research remains urgent to find a model that can give the best performance across different scenarios. -->
 
 
-## Architecture
+## 🏗️ Architecture
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/overall_architecture.png" />
 </p></br>
