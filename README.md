@@ -30,7 +30,7 @@
 <em>Fig.1 - Overview of the whole model pipeline (Image adapted from [1])</em><br/><br/>
 
 <p align="center">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/stg-nf2.png" width=70%/>
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/stg-nf2.png" width=50%/>
 </p></br>
 <em>Fig.2 - Architecture of one flow step which is constituted by ActNorm, permutation and spatio-temporal affine coupling layers (Image adapted from [1])</em><br/><br/>
 
