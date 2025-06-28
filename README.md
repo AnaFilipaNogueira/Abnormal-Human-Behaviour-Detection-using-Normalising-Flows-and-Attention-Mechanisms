@@ -13,7 +13,7 @@
 - [🙋‍♀️ FAQ](#-faq)
 - [📬 Contact](#-contact)
 
-## :dart: Main Contributions:
+## :dart: Main Contributions
 * Exploration of Normalising Flows to detect Anomalous Human Behaviours - an essential task mainly for surveillance systems-related applications
 * Analysis of the influence of the different parameters on the STG-NF model
 * Study of the integration of attention mechanisms with STG-NF model
