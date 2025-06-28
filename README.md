@@ -1,6 +1,18 @@
 # Abnormal Human Behaviour Detection using Normalising Flows and Attention Mechanisms
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/><br/>
 
+## 📚 Table of Contents
+- [:dart: Main Contributions](#:dart: Main Contributions:)
+- [ Architecture](# Architecture)
+- [🧠 Model Training](#-model-training)
+- [🧪 Model Testing](#-model-testing)
+- [📊 Results](#-results)
+- [📁 Project Structure](#-project-structure)
+- [📌 Usage](#-usage)
+- [📎 References](#-references)
+- [🙋‍♀️ FAQ](#-faq)
+- [📬 Contact](#-contact)
+
 ## :dart: Main Contributions:
 * Exploration of Normalising Flows to detect Anomalous Human Behaviours - an essential task mainly for surveillance systems-related applications
 * Analysis of the influence of the different parameters on the STG-NF model
