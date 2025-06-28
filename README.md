@@ -8,7 +8,7 @@
 - [⚙️ Train](#train)
 - [🧪 Test](#test)
 - [📈 Results](#results)
-- [🙏 Acknowledgments](#acknowledgments)
+- [:handshake: Acknowledgments](#acknowledgments)
 - [🔗 References](#references)
 - [🔐 License](#license)
 -->
@@ -66,7 +66,7 @@ Triplet
 | **STG-NF + attention (ours)** | 86.0 | 87.7 | 76.0 | **65.6** | 63.9 |
 
 
-## 🙏 Acknowledgments 
+## :handshake: Acknowledgments 
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
 <!-- Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976) and [Rotate to Attend: Convolutional Triplet Attention Module](https://openaccess.thecvf.com/content/WACV2021/papers/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.pdf) -->
