@@ -2,7 +2,7 @@
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/><br/>
 
 ## 📚 Table of Contents
-- [:dart: Main Contributions](#:dart: Main Contributions:)
+- [:dart: Main Contributions](#-Main Contributions:)
 - [ Architecture](# Architecture)
 - [🧠 Model Training](#-model-training)
 - [🧪 Model Testing](#-model-testing)
