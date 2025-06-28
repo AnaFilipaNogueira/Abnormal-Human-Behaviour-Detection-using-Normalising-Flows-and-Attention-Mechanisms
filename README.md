@@ -56,7 +56,9 @@ Our code is based on code from:
 
 ## References
 [1] Hirschorn, O., Avidan, S.: Normalizing flows for human pose anomaly detection. In: 2023 IEEE/CVF International Conference on Computer Vision (ICCV). pp. 13499–13508. IEEE Computer Society, Los Alamitos, CA, USA (oct 2023). [https://doi.org/10.1109/ICCV51070.2023.01246](https://doi.org/10.1109/ICCV51070.2023.01246)
+
 [2] Wu, R., Chen, Y., Xiao, J., Li, B., Fan, J., Dufaux, F., Zhu, C., Liu, Y.: Da-flow: Dual attention normalizing flow for skeleton-based video anomaly detection (2024). [https://arxiv.org/abs/2406.02976](https://arxiv.org/abs/2406.02976)
+
 [3] Misra, D., Nalamada, T., Arasanipalai, A.U., Hou, Q.: Rotate to attend: Convolutional triplet attention module. In: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV). pp. 3138–3147 (2021). [https://doi.org/10.1109/WACV48630.2021.00318](https://doi.org/10.1109/WACV48630.2021.00318)
 
 ## :closed_lock_with_key: License
