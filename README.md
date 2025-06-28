@@ -9,7 +9,7 @@
 - [🧪 Test](#test)
 - [📈 Results](#results)
 - [🙏 Acknowledgments](#acknowledgments)
-- [📎 References](#references)
+- [🔗 References](#references)
 - [🔐 License](#license)
 
 ## :dart: Main Contributions
@@ -70,7 +70,7 @@ Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
 <!-- Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976) and [Rotate to Attend: Convolutional Triplet Attention Module](https://openaccess.thecvf.com/content/WACV2021/papers/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.pdf) -->
 
-## 📎 References
+## 🔗 References
 [1] Hirschorn, O., Avidan, S.: Normalizing flows for human pose anomaly detection. In: 2023 IEEE/CVF International Conference on Computer Vision (ICCV). pp. 13499–13508. IEEE Computer Society, Los Alamitos, CA, USA (oct 2023). [https://doi.org/10.1109/ICCV51070.2023.01246](https://doi.org/10.1109/ICCV51070.2023.01246)
 
 [2] Wu, R., Chen, Y., Xiao, J., Li, B., Fan, J., Dufaux, F., Zhu, C., Liu, Y.: Da-flow: Dual attention normalizing flow for skeleton-based video anomaly detection (2024). [https://arxiv.org/abs/2406.02976](https://arxiv.org/abs/2406.02976)
