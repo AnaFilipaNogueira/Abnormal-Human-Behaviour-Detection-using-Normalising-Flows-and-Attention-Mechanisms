@@ -4,14 +4,13 @@
 ## 📚 Table of Contents
 - [:dart: Main Contributions](#main-contributions)
 - [🏗️ Architecture](#architecture)
-- [🧠 Model Training](#-model-training)
-- [🧪 Model Testing](#-model-testing)
-- [📊 Results](#-results)
-- [📁 Project Structure](#-project-structure)
-- [📌 Usage](#-usage)
-- [📎 References](#-references)
-- [🙋‍♀️ FAQ](#-faq)
-- [📬 Contact](#-contact)
+- [🧠 Attention Mechanisms](#attention-mechanisms)
+- [⚙️ Train](#train)
+- [🧪 Test](#test)
+- [📈 Results](#results)
+- [🙏 Acknowledgments](#acknowledgments)
+- [📎 References](#references)
+- [🔐 License](#license)
 
 ## :dart: Main Contributions
 * Exploration of Normalising Flows to detect Anomalous Human Behaviours - an essential task mainly for surveillance systems-related applications
@@ -34,7 +33,7 @@
 </p></br>
 <em>Fig.2 - Architecture of one flow step which is constituted by ActNorm, permutation and spatio-temporal affine coupling layers (Image adapted from [1])</em><br/><br/>
 
-## Atention Mechanisms
+## 🧠 Atention Mechanisms
 Dual Attention Mechanism (DAM)
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=80%/>
@@ -66,12 +65,12 @@ Triplet
 | **STG-NF + attention (ours)** | 86.0 | 87.7 | 76.0 | **65.6** | 63.9 |
 
 
-## Acknowledgments 
+## 🙏 Acknowledgments 
 Our code is based on code from:
 [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF)
 <!-- Also, takes inspiration from the work presented in the paper: [DA-Flow](https://arxiv.org/abs/2406.02976) and [Rotate to Attend: Convolutional Triplet Attention Module](https://openaccess.thecvf.com/content/WACV2021/papers/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.pdf) -->
 
-## References
+## 📎 References
 [1] Hirschorn, O., Avidan, S.: Normalizing flows for human pose anomaly detection. In: 2023 IEEE/CVF International Conference on Computer Vision (ICCV). pp. 13499–13508. IEEE Computer Society, Los Alamitos, CA, USA (oct 2023). [https://doi.org/10.1109/ICCV51070.2023.01246](https://doi.org/10.1109/ICCV51070.2023.01246)
 
 [2] Wu, R., Chen, Y., Xiao, J., Li, B., Fan, J., Dufaux, F., Zhu, C., Liu, Y.: Da-flow: Dual attention normalizing flow for skeleton-based video anomaly detection (2024). [https://arxiv.org/abs/2406.02976](https://arxiv.org/abs/2406.02976)
