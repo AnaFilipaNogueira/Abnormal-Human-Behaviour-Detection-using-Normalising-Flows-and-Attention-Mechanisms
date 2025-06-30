@@ -39,13 +39,13 @@ Dual Attention Mechanism (DAM)
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/DAM.png" width=80%/>
 </p></br>
-<em>Fig.3 - Dual Attention Mechanism (DAM)</em><br/><br/>
+<em>Fig.3 - Dual Attention Mechanism (DAM) [2]</em><br/><br/>
 
 Triplet
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=80%/>
 </p></br>
-<em>Fig.4 - Triplet</em><br/><br/>
+<em>Fig.4 - Triplet [3]</em><br/><br/>
 
 ## :gear: Train
 
