@@ -48,10 +48,15 @@ Triplet
 <em>Fig.4 - Triplet [3]</em><br/><br/>
 
 ## :gear: Train
-Setup conda environment:
+**Setup conda environment:**
 ```
 conda conda env create -f environment.yml
 conda activate STG-NF_attention
+```
+
+**Run the code:**
+```
+python train_eval.py --dataset $dataset_name --K $k --L $l --R $r --seg_len $w --network_layers "${network_layers[@]}"
 ```
 
 ## :test_tube: Test
