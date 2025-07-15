@@ -58,12 +58,12 @@ conda activate STG-NF_attention
 ```
 python train_eval.py --dataset $dataset_name --K $k --L $l --R $r --seg_len $w --network_layers "${network_layers[@]}"
 ```
-`dataset_name` -> replace by the name of the dataset (options: ShanghaiTech (default), ShanghaiTech-HR, UBnormal, Avenue, Avenue-HR)
-`k` -> number of flow steps (default: 8)
-`l` -> number of blocks (default: 1)
-`r` -> average value of the gaussian mixture model (default: 3)
-`w` -> temporal window size (default: 24)
-`network_layers[@]` -> list with the layers of the network (layer options: 'res', 'gcn', 'tcn', 'relu', 'dam_att', 'triplet_att', 'skl_att', 'frame_att'; default: ['res', 'gcn', 'tcn', 'relu', 'dam_att'])
+`dataset_name` -> replace by the name of the dataset (options: ShanghaiTech (default), ShanghaiTech-HR, UBnormal, Avenue, Avenue-HR) <br/>
+`k` -> number of flow steps (default: 8) <br/>
+`l` -> number of blocks (default: 1) <br/>
+`r` -> average value of the gaussian mixture model (default: 3) <br/>
+`w` -> temporal window size (default: 24) <br/>
+`network_layers[@]` -> list with the layers of the network (layer options: 'res', 'gcn', 'tcn', 'relu', 'dam_att', 'triplet_att', 'skl_att', 'frame_att'; default: ['res', 'gcn', 'tcn', 'relu', 'dam_att']) <br/>
 
 ## :test_tube: Test
 
