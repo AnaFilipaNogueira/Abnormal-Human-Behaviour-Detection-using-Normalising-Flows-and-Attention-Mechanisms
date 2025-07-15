@@ -29,7 +29,7 @@ def get_ab_labels(global_data_np_ab, segs_meta_ab, path_to_vid_dir='', segs_root
         clip_metadata = segs_meta_ab[clip_metadata_inds]
         
         if args.dataset == 'UBnormal':
-            path_to_vid_dir = '/nas-ctm01/datasets/public/UBnormal/videos/'
+            path_to_vid_dir = 'data/UBnormal/videos/'
         clip_res_fn = os.path.join(path_to_vid_dir, "Scene{}".format(scene_id), clip)
         
         filelist = sorted(os.listdir(clip_res_fn))
