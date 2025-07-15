@@ -59,6 +59,7 @@ conda activate STG-NF_attention
 python train_eval.py --dataset $dataset_name --K $k --L $l --R $r --seg_len $w --network_layers "${network_layers[@]}"
 ```
 
+
 ## :test_tube: Test
 
 
