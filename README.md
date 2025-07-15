@@ -48,7 +48,9 @@ Triplet
 <em>Fig.4 - Triplet [3]</em><br/><br/>
 
 ## :gear: Train
-
+Setup conda environment:
+"""conda conda env create -f environment.yml
+conda activate mediapipe_venv"""
 
 ## :test_tube: Test
 
