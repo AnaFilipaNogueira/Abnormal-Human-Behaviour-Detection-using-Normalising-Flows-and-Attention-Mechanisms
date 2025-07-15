@@ -58,7 +58,7 @@ conda activate STG-NF_attention
 ```
 python train_eval.py --dataset $dataset_name --K $k --L $l --R $r --seg_len $w --network_layers "${network_layers[@]}"
 ```
-* `dataset_name` -> replace by the name of the dataset (options: ShanghaiTech (default), ShanghaiTech-HR, UBnormal, Avenue, Avenue-HR) <br/>
+* `dataset_name` -> name of the dataset (options: ShanghaiTech (default), ShanghaiTech-HR, UBnormal, Avenue, Avenue-HR) <br/>
 * `k` -> number of flow steps (default: 8) <br/>
 * `l` -> number of blocks (default: 1) <br/>
 * `r` -> average value of the gaussian mixture model (default: 3) <br/>
