@@ -51,7 +51,7 @@ Triplet
 Setup conda environment:
 ```
 conda conda env create -f environment.yml
-conda activate mediapipe_venv
+conda activate STG-NF_attention
 ```
 
 ## :test_tube: Test
