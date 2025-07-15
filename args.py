@@ -36,7 +36,7 @@ def init_sub_args(args):
     return args, model_args
 
 
-def init_parser(default_data_dir='/nas-ctm01/datasets/public/', default_exp_dir='data/exp_dir'):
+def init_parser(default_data_dir='data/', default_exp_dir='data/exp_dir'):
     parser = argparse.ArgumentParser(prog="STG-NF")
     # General Args
     parser.add_argument('--vid_path_train', type=str, default=None, help='Path to training vids')
