@@ -1,8 +1,8 @@
 import os
 
-path = '/nas-ctm01/datasets/public/AvenueDataset/pose/test/'
+path = 'data/Avenue/pose/test/'
 orig = os.listdir(path)
-masks = os.listdir('/nas-ctm01/datasets/public/AvenueDataset/gt/test_frame_mask/')
+masks = os.listdir('data/Avenue/gt/test_frame_mask/')
 
 #print(orig)
 #for value in orig:
