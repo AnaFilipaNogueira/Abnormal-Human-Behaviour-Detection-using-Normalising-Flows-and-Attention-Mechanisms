@@ -66,7 +66,11 @@ python train_eval.py --dataset $dataset_name --K $k --L $l --R $r --seg_len $w -
 * `network_layers[@]` -> list with the layers of the network (layer options: 'res', 'gcn', 'tcn', 'relu', 'dam_att', 'triplet_att', 'skl_att', 'frame_att'; default: ['res', 'gcn', 'tcn', 'relu', 'dam_att']) <br/>
 
 ## :test_tube: Test
-
+Only assess the performance of the model:
+```
+python train_eval.py --dataset $dataset_name --checkpoint $checkpoint_path
+```
+`checkpoint_path` -> path to the directory of the .pth checkpoint file
 
 ## :chart_with_upwards_trend: Results
 <div align="justify"><em>Table 1 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em></div>  
