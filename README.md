@@ -70,7 +70,8 @@ Only assess the performance of the model:
 ```
 python train_eval.py --dataset $dataset_name --checkpoint $checkpoint_path
 ```
-`checkpoint_path` -> path to the directory of the .pth checkpoint file
+* `dataset_name` -> name of the dataset (options: ShanghaiTech (default), ShanghaiTech-HR, UBnormal, Avenue, Avenue-HR) <br/>
+* `checkpoint_path` -> path to the directory of the .pth checkpoint file
 
 ## :chart_with_upwards_trend: Results
 <div align="justify"><em>Table 1 - Results of the best run after optimising the network parameters (STG-NF optimised) and the best run combining the STG-NF model and the attention mechanisms (STG-NF + attention) compared to the state-of-the-art results.</em></div>  
