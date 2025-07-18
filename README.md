@@ -49,12 +49,17 @@ Triplet
 <em>Fig.4 - Triplet [3] with Max Pool layer instead of the original Z-pool layer.</em><br/><br/>
 
 ## :open_file_folder: Datasets
-This work used three datasets: [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html), [UBnormal](https://github.com/lilygeorgescu/UBnormal), and [Avenue](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html).
+This work used three datasets, therefore the images and videos were downloaded from the following links: [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html), [UBnormal](https://github.com/lilygeorgescu/UBnormal), and [Avenue](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html).
 
-To work with ShanghaiTech and UBnormal datasets, 
-Download the data file from the 
+The 2D poses and GT were downloaded from the repository of [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF) using the following link: [data.zip](https://drive.google.com/file/d/1o9h3Kh6zovW4FIHpNBGnYIRSbGCu-qPt/view).
 
-For the Avenue dataset:
+For the Avenue dataset, the AlphaPose architecture was used to estimate the 2D poses. Therefore, the next steps were followed:
+1. Download of the dataset.
+2. Download the [AlphaPose code](https://github.com/MVIG-SJTU/AlphaPose). Follow the instruction in the repository to perform inference using the pre-trained model [fast_421_res152_256x192.pth](https://drive.google.com/file/d/1kfyedqyn8exjbbNmYq8XGd2EooQjPtF9/view) and the YOLOX-X detector.
+3. Then, run the following lines of code:
+```
+python gen_data.py --alphapose_dir /path/to/AlphaPoseFloder/ --dir /input/dir/ --outdir /output/dir/ [--video]
+```
 
 
 ## :gear: Train
