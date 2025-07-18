@@ -113,7 +113,7 @@ def main():
                 if alphapose_results_filename in output_files:
                     continue
                 # Change to AlphaPose dir
-                #os.chdir(args.alphapose_dir)
+                os.chdir(args.alphapose_dir)
 
                 #cwd = os.getcwd()
                 #print(cwd)
@@ -122,10 +122,10 @@ def main():
                     continue
 
                 # Build command line
-                #command = create_command(args.alphapose_dir, video_filename, args.outdir, is_video=args.video)
+                command = create_command(args.alphapose_dir, video_filename, args.outdir, is_video=args.video)
                 # Run command
-                #print('\n$', command)
-                #os.system(command)
+                print('\n$', command)
+                os.system(command)
 
                 # Change back to directory containing this script (main_alpahpose.py)
                 os.chdir(args.outdir)
