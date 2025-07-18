@@ -44,7 +44,7 @@ Dual Attention Mechanism (DAM)
 
 Triplet
 <p align="center">
-  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/triplet_maxpool.png" width=80%/>
+  <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet_maxpool.png" width=80%/>
 </p></br>
 <em>Fig.4 - Triplet [3]</em><br/><br/>
 
