@@ -5,6 +5,7 @@
 - [:dart: Main Contributions](#main-contributions)
 - [🏗️ Architecture](#architecture)
 - [🧠 Attention Mechanisms](#attention-mechanisms)
+- [:open_file_folder: Datasets](#datasets)
 - [⚙️ Train](#train)
 - [🧪 Test](#test)
 - [📈 Results](#results)
@@ -46,6 +47,14 @@ Triplet
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet.png" width=80%/>
 </p></br>
 <em>Fig.4 - Triplet [3]</em><br/><br/>
+
+## :open_file_folder: Datasets
+This work used three datasets: [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html), [UBnormal](https://github.com/lilygeorgescu/UBnormal), and [Avenue](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html).
+
+To work with ShanghaiTech and Ubnormal:
+
+For the Avenue dataset:
+
 
 ## :gear: Train
 **Setup conda environment:**
