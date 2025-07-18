@@ -51,7 +51,8 @@ Triplet
 ## :open_file_folder: Datasets
 This work used three datasets: [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html), [UBnormal](https://github.com/lilygeorgescu/UBnormal), and [Avenue](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html).
 
-To work with ShanghaiTech and UBnormal datasets:
+To work with ShanghaiTech and UBnormal datasets, 
+Download the data file from the 
 
 For the Avenue dataset:
 
