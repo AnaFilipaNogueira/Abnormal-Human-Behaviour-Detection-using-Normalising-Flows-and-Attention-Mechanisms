@@ -81,7 +81,7 @@ python train_eval.py --dataset $dataset_name --K $k --L $l --R $r --seg_len $w -
 * `network_layers[@]` -> list with the layers of the network (layer options: 'res', 'gcn', 'tcn', 'relu', 'dam_att', 'triplet_att', 'skl_att', 'frame_att'; default: ['res', 'gcn', 'tcn', 'relu', 'dam_att']) <br/>
 
 ## :test_tube: Test
-Only assess the performance of the model:
+For only evaluating the performance of the model:
 ```
 python train_eval.py --dataset $dataset_name --checkpoint $checkpoint_path
 ```
