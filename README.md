@@ -46,7 +46,7 @@ Triplet
 <p align="center">
   <img src="https://github.com/AnaFilipaNogueira/Abnormal-Human-Behaviour-Detection-using-Normalising-Flows-and-Attention-Mechanisms/blob/main/images/Triplet__Maxpool.png" width=80%/>
 </p></br>
-<em>Fig.4 - Triplet [3]</em><br/><br/>
+<em>Fig.4 - Triplet [3] with Max Pool layer instead of the original Z-pool layer.</em><br/><br/>
 
 ## :open_file_folder: Datasets
 This work used three datasets: [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html), [UBnormal](https://github.com/lilygeorgescu/UBnormal), and [Avenue](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html).
