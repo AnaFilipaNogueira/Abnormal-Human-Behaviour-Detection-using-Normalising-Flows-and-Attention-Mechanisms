@@ -180,8 +180,6 @@ def gen_dataset(person_json_root, num_clips=None, kp18_format=True, ret_keys=Fal
                 continue
         elif dataset == 'Avenue' or dataset == 'Avenue-HR':
             scene_id, clip_id = person_dict_fn.split('_')[:2]
-            if avenue_hr_skip(dataset=="Avenue-HR", scene_id, clip_id):
-                continue
 
         clip_json_path = os.path.join(person_json_root, person_dict_fn)
         with open(clip_json_path, 'r') as f:
