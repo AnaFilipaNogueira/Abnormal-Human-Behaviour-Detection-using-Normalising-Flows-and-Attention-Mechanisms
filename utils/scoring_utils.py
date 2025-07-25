@@ -4,7 +4,7 @@ import numpy as np
 from scipy.ndimage import gaussian_filter1d
 from sklearn.metrics import roc_auc_score
 from tqdm import tqdm
-from dataset import shanghaitech_hr_skip, avenue_hr_skip
+from dataset import shanghaitech_hr_skip
 
 
 class bcolors:
@@ -99,8 +99,6 @@ def get_clip_score(scores, clip, metadata_np, metadata, per_frame_scores_root, a
             return None, None
     elif args.dataset == 'Avenue' or  args.dataset == 'Avenue-HR':
         scene_id, clip_id = [int(i) for i in clip.replace("label", "001").split('.')[0].split('_')]
-        if avenue_hr_skip((args.dataset == 'Avenue-HR'), scene_id, clip_id):
-            return None, None
         
     clip_metadata_inds = np.where((metadata_np[:, 1] == clip_id) &
                                   (metadata_np[:, 0] == scene_id))[0]
