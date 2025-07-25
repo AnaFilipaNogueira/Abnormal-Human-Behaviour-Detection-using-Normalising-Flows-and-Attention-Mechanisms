@@ -51,7 +51,7 @@ Triplet
 ## :open_file_folder: Datasets
 This work used three datasets, therefore the images and videos were downloaded from the following links: [ShanghaiTech](https://svip-lab.github.io/dataset/campus_dataset.html), [UBnormal](https://github.com/lilygeorgescu/UBnormal), and [Avenue](https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html).
 
-The 2D poses and GT for the ShanghaiTech and UBnormal were downloaded from the repository of [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF) using the following link: [data.zip](https://drive.google.com/file/d/1o9h3Kh6zovW4FIHpNBGnYIRSbGCu-qPt/view).
+The 2D poses and GT for the ShanghaiTech and UBnormal datasets were downloaded from the repository of [Normalizing Flows for Human Pose Anomaly Detection](https://github.com/orhir/STG-NF) using the following link: [data.zip](https://drive.google.com/file/d/1o9h3Kh6zovW4FIHpNBGnYIRSbGCu-qPt/view).
 
 For the Avenue dataset, the AlphaPose architecture was used to estimate the 2D poses. Therefore, the next steps were followed:
 1. Download of the dataset.
