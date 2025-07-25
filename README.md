@@ -56,11 +56,14 @@ The 2D poses and GT were downloaded from the repository of [Normalizing Flows fo
 For the Avenue dataset, the AlphaPose architecture was used to estimate the 2D poses. Therefore, the next steps were followed:
 1. Download of the dataset.
 2. Download the [AlphaPose code](https://github.com/MVIG-SJTU/AlphaPose). Follow the instructions in the repository to install and then, download the pre-trained model [fast_421_res152_256x192.pth](https://drive.google.com/file/d/1kfyedqyn8exjbbNmYq8XGd2EooQjPtF9/view).
-3. Then, run the following lines of code to use the AlphaPose to infer the 2D poses:
+3. Run the following command to use the AlphaPose to infer the 2D poses:
 ```
 python gen_data.py --alphapose_dir ${path to AlphaPose directory} --dir ${path to the video folder} --outdir ${path to the desired output dir} --video
 ```
-
+4. Run the next command to create the frame mask to contemplate only human anomalies:
+```
+python HR_skip.py
+``` 
 
 ## :gear: Train
 **Setup conda environment:**
