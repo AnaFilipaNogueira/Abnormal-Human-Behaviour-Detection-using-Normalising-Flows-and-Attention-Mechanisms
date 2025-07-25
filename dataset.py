@@ -10,8 +10,6 @@ from utils.pose_utils import gen_clip_seg_data_np, get_ab_labels
 from torch.utils.data import DataLoader
 
 SHANGHAITECH_HR_SKIP = [(1, 130), (1, 135), (1, 136), (6, 144), (6, 145), (12, 152)]
-AVENUE_HR_SKIP = []
-
 
 class PoseSegDataset(Dataset):
     """
@@ -153,14 +151,6 @@ def shanghaitech_hr_skip(shanghaitech_hr, scene_id, clip_id):
     if (int(scene_id), int(clip_id)) in SHANGHAITECH_HR_SKIP:
         return True
     return False
-
-def avenue_hr_skip(avenue_hr, scene_id, clip_id):
-    if not avenue_hr:
-        return avenue_hr
-    if (int(scene_id), int(clip_id)) in AVENUE_HR_SKIP:
-        return True
-    return False
-
 
 def gen_dataset(person_json_root, num_clips=None, kp18_format=True, ret_keys=False, ret_global_data=True, **dataset_args):
     segs_data_np = []
