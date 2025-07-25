@@ -2,8 +2,8 @@ import os
 import shutil
 import numpy as np
 
-orig_folder_path = '/nas-ctm01/datasets/public/Avenue/dataset/gt/test_frame_mask/'
-destination_folder_path = '/nas-ctm01/datasets/public/Avenue/dataset/gt/test_frame_mask_hr/'
+orig_folder_path = 'data/Avenue/dataset/gt/test_frame_mask/'
+destination_folder_path = 'data/Avenue/dataset/gt/test_frame_mask_hr/'
 
 if not os.path.exists(destination_folder_path):
     os.makedirs(destination_folder_path)
