@@ -45,8 +45,13 @@ def get_dataset_scores(scores, metadata, args=None):
         clip_list = os.listdir(per_frame_scores_root)
         clip_list = sorted(fn for fn in clip_list if fn.endswith('.npy'))
     
-    elif args.dataset == 'Avenue' or  args.dataset == 'Avenue-HR':
+    elif args.dataset == 'Avenue':
         per_frame_scores_root = args.data_dir + 'Avenue/gt/test_frame_mask/' 
+        clip_list = os.listdir(per_frame_scores_root)
+        clip_list = sorted(fn for fn in clip_list if fn.endswith('.npy'))
+    
+    elif args.dataset == 'Avenue-HR':
+        per_frame_scores_root = args.data_dir + 'Avenue/gt/test_frame_mask_hr/' 
         clip_list = os.listdir(per_frame_scores_root)
         clip_list = sorted(fn for fn in clip_list if fn.endswith('.npy'))
 
