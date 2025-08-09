@@ -1,7 +1,7 @@
 # Abnormal Human Behaviour Detection using Normalising Flows and Attention Mechanisms
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/><br/>
 
-## Citation
+## :pencil Citation
 ```
 @InProceedings{10.1007/978-3-031-99565-1_14,
 author="Nogueira, Ana Filipa Rodrigues and Oliveira, H{\'e}lder P. and Teixeira, Lu{\'i}s F.",
