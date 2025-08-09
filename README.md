@@ -1,21 +1,6 @@
 # Abnormal Human Behaviour Detection using Normalising Flows and Attention Mechanisms
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/><br/>
 
-## ✏️ Citation
-```
-@InProceedings{10.1007/978-3-031-99565-1_14,
-author="Nogueira, Ana Filipa Rodrigues and Oliveira, H{\'e}lder P. and Teixeira, Lu{\'i}s F.",
-editor="Gon{\c{c}}alves, Nuno and Oliveira, H{\'e}lder P. and S{\'a}nchez, Joan Andreu",
-title="Abnormal Human Behaviour Detection Using Normalising Flows and Attention Mechanisms",
-booktitle="Pattern Recognition and Image Analysis",
-year="2026",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="175--186",
-isbn="978-3-031-99565-1"
-}
-```
-
 <!-- ## 📚 Table of Contents
 - [:dart: Main Contributions](#main-contributions)
 - [🏗️ Architecture](#architecture)
@@ -24,6 +9,7 @@ isbn="978-3-031-99565-1"
 - [⚙️ Train](#train)
 - [🧪 Test](#test)
 - [📈 Results](#results)
+- [✏️ Citation](#citation)
 - [:handshake: Acknowledgments](#acknowledgments)
 - [🔗 References](#references)
 - [🔐 License](#license)
@@ -118,6 +104,20 @@ python train_eval.py --dataset $dataset_name --checkpoint $checkpoint_path
 | **STG-NF optimised (ours)** | 86.3 | 87.2 | **77.7** | 62.2 | **67.1** |
 | **STG-NF + attention (ours)** | 86.0 | 87.7 | 76.0 | **65.6** | 63.9 |
 
+## ✏️ Citation
+```
+@InProceedings{10.1007/978-3-031-99565-1_14,
+author="Nogueira, Ana Filipa Rodrigues and Oliveira, H{\'e}lder P. and Teixeira, Lu{\'i}s F.",
+editor="Gon{\c{c}}alves, Nuno and Oliveira, H{\'e}lder P. and S{\'a}nchez, Joan Andreu",
+title="Abnormal Human Behaviour Detection Using Normalising Flows and Attention Mechanisms",
+booktitle="Pattern Recognition and Image Analysis",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="175--186",
+isbn="978-3-031-99565-1"
+}
+```
 
 ## :handshake: Acknowledgments 
 Our code is based on code from:
