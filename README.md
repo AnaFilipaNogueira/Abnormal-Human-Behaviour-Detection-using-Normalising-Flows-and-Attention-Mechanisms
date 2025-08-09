@@ -2,13 +2,10 @@
 **Authors:** Ana Filipa Rodrigues Nogueira, Hélder P. Oliveira, and Luís F. Teixeira <br/><br/>
 
 ## Citation
+```
 @InProceedings{10.1007/978-3-031-99565-1_14,
-author="Nogueira, Ana Filipa Rodrigues
-and Oliveira, H{\'e}lder P.
-and Teixeira, Lu{\'i}s F.",
-editor="Gon{\c{c}}alves, Nuno
-and Oliveira, H{\'e}lder P.
-and S{\'a}nchez, Joan Andreu",
+author="Nogueira, Ana Filipa Rodrigues and Oliveira, H{\'e}lder P. and Teixeira, Lu{\'i}s F.",
+editor="Gon{\c{c}}alves, Nuno and Oliveira, H{\'e}lder P. and S{\'a}nchez, Joan Andreu",
 title="Abnormal Human Behaviour Detection Using Normalising Flows and Attention Mechanisms",
 booktitle="Pattern Recognition and Image Analysis",
 year="2026",
@@ -17,6 +14,7 @@ address="Cham",
 pages="175--186",
 isbn="978-3-031-99565-1"
 }
+```
 
 <!-- ## 📚 Table of Contents
 - [:dart: Main Contributions](#main-contributions)
